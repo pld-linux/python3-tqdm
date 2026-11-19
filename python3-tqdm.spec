@@ -5,13 +5,13 @@
 Summary:	Fast, Extensible Progress Meter
 Summary(pl.UTF-8):	Szybki, rozszerzalny wskaźnik postępu
 Name:		python3-tqdm
-Version:	4.67.1
+Version:	4.70.1
 Release:	1
 License:	MPL v2.0
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/tqdm/
 Source0:	https://files.pythonhosted.org/packages/source/t/tqdm/tqdm-%{version}.tar.gz
-# Source0-md5:	aca803dd7ac5c4ae233977aff41b7f7c
+# Source0-md5:	2f74946f88e128654c7c03cc89570e38
 URL:		https://pypi.org/project/tqdm/
 BuildRequires:	python3-build
 BuildRequires:	python3-installer
